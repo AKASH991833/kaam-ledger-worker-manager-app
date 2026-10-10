@@ -99,7 +99,7 @@ python3 -m http.server 8080
 # Then open http://localhost:8080
 ```
 
-`index.html` contains the UI, validation, ledger model, persistence, exports and a small dependency-free XLSX ZIP writer. GitHub Pages serves the root of the `main` branch. `5-source.zip` contains editable app source and documentation.
+`index.html` contains the UI, validation, ledger model, persistence, exports and a small dependency-free XLSX ZIP writer. GitHub Pages serves the root of the `main` branch. Download the latest editable source with GitHub’s **Code → Download ZIP** button. The original `5-source.zip` is the initial snapshot; the root `index.html` and README always contain the latest version.
 
 ## QA
 
